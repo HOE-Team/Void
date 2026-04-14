@@ -1,5 +1,5 @@
-# Git-Void
-**Git-Void** 是一款物理脱离式版本控制模拟器。它不操作文件，它操作的是**概念、熵与虚无**。
+# Void
+**Void** 是一款物理脱离式版本控制模拟器。它不操作文件，它操作的是**概念、熵与虚无**。
 > "In a world of data, the most powerful commit is the one that records nothing."
 
 ## 核心特性
